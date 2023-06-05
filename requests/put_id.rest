@@ -1,0 +1,6 @@
+PUT http://127.0.0.1:3001/notes/1
+Content-Type: application/json
+
+{
+    "content": "CAMBIADO"
+}
